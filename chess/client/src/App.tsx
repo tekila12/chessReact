@@ -2,7 +2,8 @@ import React, { Suspense } from 'react';
 import styles from "@/styles/Home.module.css";
 import { Canvas, } from '@react-three/fiber'
 import { Center, OrbitControls, useProgress } from '@react-three/drei';
-import ChessBoard from './components/Chessboard';
+import ChessBoard from './components/ChessBoard';
+
 
 
 
